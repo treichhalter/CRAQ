@@ -1,6 +1,8 @@
 \.metadata
 bin/
 temp/
+Debug/
+
 # Prerequisites
 *.d
 
