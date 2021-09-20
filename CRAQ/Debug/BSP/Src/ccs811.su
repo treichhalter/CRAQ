@@ -1,0 +1,5 @@
+ccs811.c:27:6:ccs811_init	32	static
+ccs811.c:44:10:ccs811_measureCO2	16	static
+ccs811.c:56:10:ccs811_measureTVOC	16	static
+ccs811.c:70:6:ccs811_measure_CO2_TVOC	56	static
+ccs811.c:91:6:ccs811_temp_rh_compensation	48	static
